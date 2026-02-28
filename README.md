@@ -2,27 +2,34 @@
   <img src="./img.png" alt="Project Banner" width="100%">
 </p>
 
-# [Project Name] 🎯
+# [Reality shield] 🎯
 
 ## Basic Details
 
-### Team Name: [Name]
+### Team Name: [Binary Brain]
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
+- Member 1: [Ardra] - [Vidya Academy of science and technology]
+- Member 2: [Ridha] - [Vidya Academy of science and technology]
 
 ### Hosted Project Link
-[mention your project hosted link here]
+<a href="https://drive.google.com/file/d/13m9kXd7JdqlG9SUS-woxGJcXrAWQPTNG/view?usp=drive_link" target="_blank">
+  View Project Demo
+</a>
 
 ### Project Description
-[2-3 lines about what your project does]
+[
+“By 2026, AI-generated deepfakes will threaten elections, news, and financial systems.
+RealityShield is a Python-based AI authenticity engine that detects media manipulation using computer vision.”]
 
 ### The Problem statement
-[What problem are you solving?]
+[With the rapid advancement of artificial intelligence, deepfake technology has become increasingly accessible and sophisticated. AI-generated deepfakes can now convincingly manipulate images and videos, making it difficult to distinguish between real and fake content.]
 
 ### The Solution
-[How are you solving it?]
+[Analyze facial features and patterns in images
+Detect inconsistencies caused by AI manipulation
+Classify media as Real or Deepfake
+Provide confidence scores for transparency]
 
 ---
 
@@ -83,14 +90,16 @@ List the key features of your project:
 
 #### Screenshots (Add at least 3)
 
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+<a href="https://drive.google.com/file/d/1uum4RacKjfrFxVP1wJO_krtnJLQbJEkn/view?usp=drive_link"_blank">
+  View Project Demo
+</a>
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot2]<a href="https://drive.google.com/file/d/16kFwsNWkLwGqSVHTbYdjCD5Rn7Zy_bMk/view?usp=drive_link"_blank">
+  View Project Demo
+</a>
+![Screenshot3]<a href="https://drive.google.com/file/d/1R0spAUyouiRyK10KUBfxEKXqiROxywyo/view?usp=drive_link"_blank">
+  View Project Demo
+</a>
 
 #### Diagrams
 
